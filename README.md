@@ -1,24 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Utsab%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Quantum%20AI%20Researcher%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18" />
+<!-- HEADER WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Utsab%20Das&fontSize=60&fontColor=fff&fontAlignY=38&desc=Quantum%20AI%20Researcher%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=16&descColor=ccc" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I%27m+Utsab+Das!;Quantum+AI+Researcher+%E2%9A%9B%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;DSA+Problem+Solver+%F0%9F%8E%AF;KIIT+University+%7C+Batch+2025--2029+%F0%9F%8E%93" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Utsab+Das+%F0%9F%91%8B;Quantum+AI+Researcher+%E2%9A%9B%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;DSA+Problem+Solver+%F0%9F%8E%AF;KIIT+University+%7C+Batch+2025-2029+%F0%9F%8E%93" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=utsabdas045-beep&label=Profile+Views&color=6e40c9&style=flat-square" alt="Profile Views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/utsab-das-41a618297">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+<!-- BADGES -->
+<a href="https://linkedin.com/in/utsab-das-41a618297">
+  <img src="https://img.shields.io/badge/LinkedIn-Utsab%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/KIIT-2025--2029-6e40c9?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=flat-square" />
+<a href="https://leetcode.com/u/Utsab_Das25/">
+  <img src="https://img.shields.io/badge/LeetCode-Utsab__Das25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/utsabdcbg8">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-utsabdcbg8-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="mailto:utsabdas045@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-utsabdas045-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=utsabdas045-beep&label=Profile+Views&color=a855f7&style=flat-square" />
+<img src="https://img.shields.io/badge/KIIT%20University-Bhubaneswar-a855f7?style=flat-square" />
+<img src="https://img.shields.io/badge/Batch-2025--2029-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-f97316?style=flat-square" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -41,6 +52,7 @@ class UtsabDas:
         self.tools       = ["Node.js", "Git", "GitHub", "VS Code"]
         self.interests   = ["Quantum Computing", "Artificial Intelligence",
                             "Data Structures & Algorithms", "Open Source"]
+        self.email       = "utsabdas045@gmail.com"
         self.portfolio   = "https://utsabdas045-beep.github.io"
 
     def say_hi(self):
@@ -56,7 +68,7 @@ me.say_hi()
 
 <div align="center">
 
-*"Bridging the quantum realm with artificial intelligence to build the technology of tomorrow."*
+> *"Bridging the quantum realm with artificial intelligence to build the technology of tomorrow."*
 
 </div>
 
@@ -73,11 +85,10 @@ I explore the intersection of **Quantum Computing** and **Artificial Intelligenc
 
 <div align="center">
 
-[![HyrUp](https://github-readme-stats.vercel.app/api/pin/?username=utsabdas045-beep&repo=HyrUp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)](https://github.com/utsabdas045-beep/HyrUp)
-&nbsp;
-[![CINEPLEX](https://github-readme-stats.vercel.app/api/pin/?username=utsabdas045-beep&repo=CINEPLEX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)](https://github.com/utsabdas045-beep/CINEPLEX)
+[![HyrUp](https://github-readme-stats.vercel.app/api/pin/?username=utsabdas045-beep&repo=HyrUp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/utsabdas045-beep/HyrUp)
+[![CINEPLEX](https://github-readme-stats.vercel.app/api/pin/?username=utsabdas045-beep&repo=CINEPLEX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/utsabdas045-beep/CINEPLEX)
 
-[![resume](https://github-readme-stats.vercel.app/api/pin/?username=utsabdas045-beep&repo=resume&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)](https://github.com/utsabdas045-beep/resume)
+[![resume](https://github-readme-stats.vercel.app/api/pin/?username=utsabdas045-beep&repo=resume&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/utsabdas045-beep/resume)
 
 </div>
 
@@ -87,19 +98,16 @@ I explore the intersection of **Quantum Computing** and **Artificial Intelligenc
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" />
+### 🛠️ Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux&theme=dark&perline=6" />
 
-**Tools & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux&theme=dark" />
-
-**Research Areas**
-
+### 🔬 Research & Interests
 <img src="https://img.shields.io/badge/Quantum%20Computing-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-6E40C9?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-A855F7?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Research-FF9500?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
@@ -110,10 +118,10 @@ I explore the intersection of **Quantum Computing** and **Artificial Intelligenc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utsabdas045-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=utsabdas045-beep&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utsabdas045-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=utsabdas045-beep&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsabdas045-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=6" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsabdas045-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
@@ -141,9 +149,12 @@ I explore the intersection of **Quantum Computing** and **Artificial Intelligenc
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
+<a href="https://leetcode.com/u/Utsab_Das25/">
+  <img src="https://img.shields.io/badge/LeetCode-Utsab__Das25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/utsabdcbg8">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-utsabdcbg8-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 </div>
 
@@ -153,14 +164,14 @@ I explore the intersection of **Quantum Computing** and **Artificial Intelligenc
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-6e40c9?style=for-the-badge)](https://utsabdas045-beep.github.io)
-&nbsp;
-<a href="https://www.linkedin.com/in/utsab-das-41a618297">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://utsabdas045-beep.github.io">
+  <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Now-a855f7?style=for-the-badge" />
 </a>
-&nbsp;
+<a href="https://linkedin.com/in/utsab-das-41a618297">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:utsabdas045@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -173,7 +184,7 @@ I explore the intersection of **Quantum Computing** and **Artificial Intelligenc
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 *⭐ From [utsabdas045-beep](https://github.com/utsabdas045-beep) — Let's build the future, one commit at a time!*
 
