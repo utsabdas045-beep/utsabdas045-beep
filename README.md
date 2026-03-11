@@ -1,33 +1,47 @@
 <div align="center">
 
 <!-- HEADER WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Utsab%20Das&fontSize=60&fontColor=fff&fontAlignY=38&desc=Quantum%20AI%20Researcher%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=16&descColor=ccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,40:090979,100:00d4ff&height=220&section=header&text=Utsab%20Das&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=⚛️%20Quantum%20AI%20Researcher%20%7C%20🌐%20Full-Stack%20Dev%20%7C%20🎯%20DSA%20Enthusiast&descAlignY=62&descSize=15&descColor=a5f3fc&stroke=ffffff&strokeWidth=2" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Utsab+Das+%F0%9F%91%8B;Quantum+AI+Researcher+%E2%9A%9B%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;DSA+Problem+Solver+%F0%9F%8E%AF;KIIT+University+%7C+Batch+2025-2029+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+there!+I%27m+Utsab+Das+%F0%9F%91%8B;Quantum+AI+Researcher+%E2%9A%9B%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;DSA+Problem+Solver+%F0%9F%8E%AF;KIIT+University+%7C+Batch+2025-2029+%F0%9F%8E%93" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<!-- BADGES -->
+<!-- SOCIAL LINKS ROW -->
+<p>
 <a href="https://linkedin.com/in/utsab-das-41a618297">
-  <img src="https://img.shields.io/badge/LinkedIn-Utsab%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="35" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/Utsab_Das25/">
-  <img src="https://img.shields.io/badge/LeetCode-Utsab__Das25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img height="35" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
+&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/utsabdcbg8">
-  <img src="https://img.shields.io/badge/GeeksForGeeks-utsabdcbg8-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img height="35" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:utsabdas045@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-utsabdas045-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="35" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://utsabdas045-beep.github.io">
+  <img height="35" src="https://img.shields.io/badge/Portfolio-%2300d4ff.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=utsabdas045-beep&label=Profile+Views&color=a855f7&style=flat-square" />
-<img src="https://img.shields.io/badge/KIIT%20University-Bhubaneswar-a855f7?style=flat-square" />
-<img src="https://img.shields.io/badge/Batch-2025--2029-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-f97316?style=flat-square" />
+<!-- INFO PILLS -->
+<p>
+<img src="https://img.shields.io/badge/👁️%20Profile%20Views--%20-blueviolet?style=flat-square&labelColor=0d1117&color=7c3aed" />
+<img src="https://komarev.com/ghpvc/?username=utsabdas045-beep&color=7c3aed&style=flat-square&label=+" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🎓%20KIIT%20University-Bhubaneswar-0ea5e9?style=flat-square&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📅%20Batch-2025--2029-10b981?style=flat-square&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🤝%20Open%20to-Collaborate-f59e0b?style=flat-square&labelColor=0d1117" />
+</p>
 
 </div>
 
