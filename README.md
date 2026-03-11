@@ -61,10 +61,6 @@ My goal is to design **intelligent systems that combine AI with scalable softwar
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=3500&color=F472B6&center=true&vCenter=true&width=500&lines=Languages+%7C+Tools+%7C+Platforms+I+work+with+💻" alt="tech heading"/>
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,nodejs,html,css,git,github,vscode&theme=dark&perline=10"/>
 
 <br/><br/>
@@ -82,19 +78,15 @@ My goal is to design **intelligent systems that combine AI with scalable softwar
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=⚛️+Quantum+Machine+Learning;🤖+AI+Agents+%26+Agentic+Systems;🧠+Intelligent+System+Design;🔍+Algorithms+%26+Optimization;🌐+Scalable+Software+Engineering" alt="research interests"/>
+| 🔬 Area | 💡 Focus |
+|:---|:---|
+| ⚛️ &nbsp;**Quantum Machine Learning** | Hybrid quantum-classical AI models |
+| 🤖 &nbsp;**AI Agents** | Autonomous reasoning & agentic systems |
+| 🧠 &nbsp;**Intelligent Systems** | AI-powered software architectures |
+| 🔍 &nbsp;**Algorithms & Optimization** | Graph theory, DP, advanced search |
+| 🌐 &nbsp;**System Design** | Scalable full-stack engineering |
 
 </div>
-
-<br/>
-
-```
-⚛️  Quantum Machine Learning     →   Hybrid quantum-classical AI models
-🤖  AI Agents                    →   Autonomous reasoning systems
-🧠  Intelligent Systems          →   AI-powered software architectures  
-🔍  Algorithms & Optimization    →   Graph theory, DP, advanced search
-🌐  System Design                →   Scalable full-stack engineering
-```
 
 ---
 
@@ -189,10 +181,6 @@ My goal is to design **intelligent systems that combine AI with scalable softwar
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&width=700&lines=⭐+Always+exploring+Quantum+Computing%2C+AI%2C+and+scalable+software+systems.;🚀+Let's+build+the+future+together!;💡+Open+to+collaborations+%26+opportunities!" alt="footer typing"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work&fontSize=15&fontColor=a78bfa&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=footer&text=Always%20exploring%20Quantum%20Computing%2C%20AI%20%26%20Scalable%20Systems&fontSize=15&fontColor=a78bfa&fontAlignY=50&desc=🚀%20Let%27s%20build%20the%20future%20together!%20Drop%20a%20⭐%20if%20you%20like%20my%20work&descSize=13&descAlignY=72&descColor=c4b5fd"/>
 
 </div>
