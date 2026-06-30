@@ -39,7 +39,7 @@
 ### 👨‍💻 Who I Am
 
 - 🎓 **B.Tech Computer Engineering** @ KIIT University, Bhubaneswar
-- 📅 **Batch:** 2023 – 2027 | Student ID: 2505647
+- 📅 **Batch:** 2025 – 2029 | Student ID: 2505647
 - 🔬 **Research Focus:** Quantum Machine Learning × Financial AI
 - ⚛️ Currently building **QGAN & HQMM** architectures for multi-market forecasting, targeting **IEEE journal publication**
 - 🤖 Passionate about **Autonomous AI Agents** and **Intelligent Systems Design**
